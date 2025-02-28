@@ -3,7 +3,7 @@
 Please Visit this Chatbot:https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2025/02/28/08/20250228084135-5I93558O.json
 
 ## 📸 Screenshots
-![image]
+![image](https://github.com/SmitaNanaware/ZeotapAssignment2/blob/1a44199e2958ef02a5a98707989d0939b6316738/2.2.png)
 
 # Project Overview
 This project is a chatbot that helps users find answers to "how-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The chatbot extracts relevant information from the official documentation of these platforms and provides the user with step-by-step guidance.
